@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Hello, Qa.Quru!");
         System.out.println("Another line");
     }
+    
+    public static void another() {
+        System.out.println("Another method!");
+        
 }
